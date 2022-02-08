@@ -56,12 +56,19 @@
                     <td><a href="https://flatt44.github.io/bacs200/test.html">bacs200/test.html</a></td>
                     <!--<td><a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fflatt44.github.io%2Fbacs200%2Ftest.html">VALIDATE</a></td>-->
 					<td><button type="button" onclick="location.href='https://validator.w3.org/nu/?doc=https%3A%2F%2Fflatt44.github.io%2Fbacs200%2Ftest.html';">VALIDATE</button></td>
+					<td><button type="button" onclick="NewTab('https://validator.w3.org/nu/?doc=https%3A%2F%2Fflatt44.github.io%2Fbacs200%2Ftest.html')">New Tab</button></td>
                 </tr>
 
             </table>
 
         </section>
-
+	<script>
+		
+		function NewTab(url)
+		{
+			window.open(url, "_blank")
+		}
+	</script>
 
     </body>
 
