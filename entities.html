@@ -8,16 +8,14 @@
 		{
 			background-color:white;
 			font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
-		}
-		
+		}	
 		#page_title 
 		{
 			color:#7900AF;
 			text-align:center;
 			padding:10px;
 			font-size:40;
-		}
-		
+		}	
 		th, caption 
 		{
 			font-size:18pt;
@@ -25,15 +23,22 @@
 			background-color:black;
 			border:2px solid #7900AF;
 			font-weight:500;
-		}
-		
+		}	
+		*[scope^="col"]
+		{
+			colum-width:300px;
+		}		
+		*[scope^="row"]
+		{
+			font-size:45pt;
+		}		
 		td 
 		{
 			border:1px solid #7900AF;
 			text-align:center;
 			font-size:14pt;
-		}
-		
+		}	
+		th ~ td {font-weight:bold;}
 		table 
 		{
 			border-spacing:0;
@@ -42,12 +47,10 @@
 			margin-left:auto;
 			margin-right:auto;
 		}
-		
 		.colheader
 		{
 			column-width:200px;	
 		}
-		
 		.rowheader
 		{
 			font-size:30pt;
