@@ -32,8 +32,13 @@ h2
 	width:272px;
 	height:362px;	
 }
-
 .mugshot + h1
 {
-	margin:0px
+	margin:10px
+}
+#spiderman
+{
+	text-decoration:underline;
+	font-style:italic;
+	font-size:70pt
 }
