@@ -1,11 +1,12 @@
 body
 {
-	<!--background-color:#97590B;-->
-	background-image: url('background.jpg');
+	background-color:#97590B;
+
 }
 *
 {
-	border:1px solid white
+	border:1px solid white;
+	background-image: url('b.png');
 }
 #wanted
 {
