@@ -2,10 +2,11 @@ body
 {
 	background-color:#97590B;
 	text-align:center;
+	background-image: url('b.png');
 }
 *
 {
-	background-image: url('b.png');
+
 }
 #wanted
 {
