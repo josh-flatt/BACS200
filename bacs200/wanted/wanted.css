@@ -2,6 +2,13 @@ body
 {
 	background-color:#97590B;
 }
+#wanted
+{
+	border: 10px solid black;
+	margin-left:auto;
+	margin-right:auto;
+	width:40%
+}
 h1
 {
 	text-align:center;
@@ -17,7 +24,12 @@ h2
 	display: block;
   	margin-left: auto;
   	margin-right: auto;
-	width:17%;
-	height:400px;
+	width:18%;
+	height:500px;
 	
+}
+
+.mugshot + h1
+{
+	margin:-100px
 }
