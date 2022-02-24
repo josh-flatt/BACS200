@@ -2,6 +2,10 @@ body
 {
 	background-color:#97590B;
 }
+*
+{
+	border:1px solid white
+}
 #wanted
 {
 	border: 10px solid black;
@@ -25,12 +29,11 @@ h2
 	display: block;
   	margin-left: auto;
   	margin-right: auto;
-	width:20%;
-	height:500px;
-	
+	width:272px;
+	height:362px;	
 }
 
 .mugshot + h1
 {
-	margin:-100px
+	margin:0px
 }
