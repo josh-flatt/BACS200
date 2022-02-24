@@ -12,9 +12,12 @@ h2
 	text-align:center;
 	font-size:30pt;
 }
-#mugshot
+.mugshot
 {
 	display: block;
   	margin-left: auto;
   	margin-right: auto;
+	width:17%;
+	height:400px;
+	
 }
