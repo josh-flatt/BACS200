@@ -1,0 +1,20 @@
+body
+{
+	background-color:#97590B;
+}
+h1
+{
+	text-align:center;
+	font-size:60pt;
+}
+h2
+{
+	text-align:center;
+	font-size:30pt;
+}
+#mugshot
+{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
