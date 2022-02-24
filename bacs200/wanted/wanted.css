@@ -5,7 +5,6 @@ body
 }
 *
 {
-	border:1px solid white;
 	background-image: url('b.png');
 }
 #wanted
@@ -45,4 +44,9 @@ h2
 #list
 {
 	text-decoration:underline;
+}
+ul
+{
+	font-size:25pt;
+	text-align:center;
 }
