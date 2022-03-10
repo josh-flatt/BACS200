@@ -1,2 +1,35 @@
 /* CSS Document */
-
+@font-face 
+{
+	font-family: "Roboto";
+	src:url('bacs200/css/fonts/Roboto-Regular.ttf');
+	font-style:normal;
+}
+@font-face 
+{
+	font-family: "Roboto";
+	src:url("bacs200/css/fonts/Roboto-Bold.ttf") format('truetype');
+	font-weight: bold;
+}
+@font-face 
+{
+	font-family: "Roboto";
+	src:url("bacs200/css/fonts/Roboto-Italic.ttf") format('truetype');
+	font-style: italic;
+}
+@font-face 
+{
+	font-family: "Roboto";
+	src:url("bacs200/css/fonts/Roboto-BoldItalic.ttf") format('truetype');
+	font-weight: bold;
+	font-style:italic;
+}
+/* Roboto - "Sans-serif"; used for titling*/
+/* Lora - "Serif"; used for blocks of text*/
+@font-face
+{
+	font-family: "Lora";
+	src:url("") format('truetype');
+	font-weight: bold;
+	font-style:italic;	
+}
