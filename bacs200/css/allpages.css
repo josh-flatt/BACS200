@@ -62,11 +62,11 @@ h1
 }
 .button 
 {
-	padding-top: 15px;
-	padding-bottom: 15px;
-	padding-left: 15px;
-	padding-right: 15px;
-	font-size: 14pt;
+	padding-top: 1vw;
+	padding-bottom: 1vw;
+	padding-left: 1vw;
+	padding-right: 1vw;
+	font-size: 2vw;
 	font-weight: bold;
 	background-color:silver;
 }
