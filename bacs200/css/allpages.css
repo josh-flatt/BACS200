@@ -2,25 +2,25 @@
 @font-face 
 {
 	font-family: "Roboto";
-	src:url('bacs200/css/fonts/Roboto-Regular.ttf');
+	src:url('fonts/Roboto-Regular.ttf');
 	font-style:normal;
 }
 @font-face 
 {
 	font-family: "Roboto";
-	src:url('bacs200/css/fonts/Roboto-Bold.ttf') format('truetype');
+	src:url('fonts/Roboto-Bold.ttf') format('truetype');
 	font-weight: bold;
 }
 @font-face 
 {
 	font-family: "Roboto";
-	src:url("bacs200/css/fonts/Roboto-Italic.ttf") format('truetype');
+	src:url("fonts/Roboto-Italic.ttf") format('truetype');
 	font-style: italic;
 }
 @font-face 
 {
 	font-family: "Roboto";
-	src:url("bacs200/css/fonts/Roboto-BoldItalic.ttf") format('truetype');
+	src:url("fonts/Roboto-BoldItalic.ttf") format('truetype');
 	font-weight: bold;
 	font-style:italic;
 }
@@ -29,25 +29,25 @@
 @font-face
 {
 	font-family: "Lora";
-	src:url("/bacs200/css/fonts/Lora-Regular.ttf") format('truetype');
+	src:url("fonts/Lora-Regular.ttf") format('truetype');
 	font-style:normal;	
 }
 @font-face
 {
 	font-family: "Lora";
-	src:url("/bacs200/css/fonts/Lora-Bold.ttf") format('truetype');
+	src:url("fonts/Lora-Bold.ttf") format('truetype');
 	font-weight: bold;
 }
 @font-face
 {
 	font-family: "Lora";
-	src:url("/bacs200/css/fonts/Lora-Italic.ttf") format('truetype');
+	src:url("fonts/Lora-Italic.ttf") format('truetype');
 	font-style:italic;	
 }
 @font-face
 {
 	font-family: "Lora";
-	src:url("/bacs200/css/fonts/Lora-BoldItalic.ttf") format('truetype');
+	src:url("fonts/Lora-BoldItalic.ttf") format('truetype');
 	font-weight: bold;
 	font-style:italic;	
 }
@@ -61,12 +61,8 @@ h2
 {
 	font-family:"Lora";
 }
-p
-{font-family:"Lora";}
-.pagetitle
-{
-	font-size:4vw;
-}
+p {font-family:"Lora";}
+.pagetitle {font-size:4vw;}
 .button 
 {
 	padding-top: 1vw;
@@ -77,7 +73,8 @@ p
 	font-weight: bold;
 	background-color:silver;
 }
-ul
-{
-	list-style-type:square;
+ul {list-style-type:square;}
+iframe {
+	width:1500px;
+	height:700px;
 }
