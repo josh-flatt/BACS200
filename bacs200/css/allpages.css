@@ -29,7 +29,44 @@
 @font-face
 {
 	font-family: "Lora";
-	src:url("") format('truetype');
+	src:url("/bacs200/css/fonts/Lora-Regular.ttf") format('truetype');
+	font-style:normal;	
+}
+@font-face
+{
+	font-family: "Lora";
+	src:url("/bacs200/css/fonts/Lora-Bold.ttf") format('truetype');
+	font-weight: bold;
+}
+@font-face
+{
+	font-family: "Lora";
+	src:url("/bacs200/css/fonts/Lora-Italic.ttf") format('truetype');
+	font-style:italic;	
+}
+@font-face
+{
+	font-family: "Lora";
+	src:url("/bacs200/css/fonts/Lora-BoldItalic.ttf") format('truetype');
 	font-weight: bold;
 	font-style:italic;	
+}
+
+h1
+{
+	font-family:"Roboto";	
+}
+.pagetitle
+{
+	font-size:4vw;
+}
+.button 
+{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	font-size: 14pt;
+	font-weight: bold;
+	background-color:silver;
 }
