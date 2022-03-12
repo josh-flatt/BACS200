@@ -55,15 +55,23 @@ ul
 	text-align:center;
 	color:black;
 	background:none;
+	list-style-type:none;
+
+}
+li
+{
+	background:none;
+	color:black;
+
 }
 p
 {
 	text-align:left;
 	background:none;
+	color:black;
 }
 footer
 {
-	color:black;
 	text-align:left;
 	background:none;
 }
