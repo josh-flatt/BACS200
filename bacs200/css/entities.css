@@ -17,7 +17,7 @@ th, caption
 	font-size:18pt;
 	color:white;
 	background-color:black;
-	border:2px solid #fdbd37;
+	border: 1px solid #fdbd37;
 	font-weight:500;
 }	
 
@@ -43,7 +43,7 @@ th ~ td {font-weight:bold;}
 table 
 {
 	border-spacing:0;
-	border:3px solid #fdbd37;
+	border:2px solid #fdbd37;
 	/*class:center;*/
 	margin-left:auto;
 	margin-right:auto;
