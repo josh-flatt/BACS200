@@ -56,3 +56,14 @@ ul
 	color:black;
 	background:none;
 }
+p
+{
+	text-align:left;
+	background:none;
+}
+footer
+{
+	color:black;
+	text-align:left;
+	background:none;
+}
