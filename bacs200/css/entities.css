@@ -33,7 +33,7 @@ th, caption
 
 td 
 {
-	border:1px solid #7900AF;
+	border:1px solid #fdbd37;
 	text-align:center;
 	font-size:14pt;
 }	
@@ -43,7 +43,7 @@ th ~ td {font-weight:bold;}
 table 
 {
 	border-spacing:0;
-	border:3px solid #7900AF;
+	border:3px solid #fdbd37;
 	class:center;
 	margin-left:auto;
 	margin-right:auto;
