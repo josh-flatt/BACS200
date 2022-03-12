@@ -1,8 +1,12 @@
+*
+{
+	background-image: url('../images/aged_paper.png');
+
+}
 body
 {
 	background-color:#97590B;
 	text-align:center;
-	background-image: url('../images/aged_paper.png');
 }
 #wanted
 {
