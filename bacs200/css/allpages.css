@@ -80,7 +80,7 @@ p {font-family:"Lora";}
 	background-color:#fdbd37;
 	color:#002d5e;
 }
-button:disabled {background-color:silver;}
+button:disabled {background-color:gray;}
 ul {list-style-type:square;}
 .iframe 
 {
