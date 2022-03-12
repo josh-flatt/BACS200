@@ -17,10 +17,14 @@ h1
 {
 	font-size:60pt;
 	margin:0;
+	color:black;
+	background:none;
 }
 h2
 {
 	font-size:30pt;
+	color:black;
+	background:none;
 }
 .mugshot
 {
@@ -38,7 +42,8 @@ h2
 {
 	text-decoration:underline;
 	font-style:italic;
-	font-size:70pt
+	font-size:70pt;
+	color:black
 }
 #list
 {
@@ -48,4 +53,6 @@ ul
 {
 	font-size:25pt;
 	text-align:center;
+	color:black;
+	background:none;
 }
