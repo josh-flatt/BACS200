@@ -1,7 +1,6 @@
 *
 {
 	background-image: url('../images/aged_paper.png');
-
 }
 body
 {
@@ -60,13 +59,11 @@ ul
 	color:black;
 	background:none;
 	list-style-type:none;
-
 }
 li
 {
 	background:none;
 	color:black;
-
 }
 p
 {
@@ -79,3 +76,4 @@ footer
 	text-align:left;
 	background:none;
 }
+.button {background-color:#fdbd37;}
