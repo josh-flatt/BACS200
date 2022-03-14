@@ -53,8 +53,8 @@
 }
 *
 {
-	background-color:#002d5e;
-	color:#fdbd37;
+	background-color:#EFEFEF;
+	color:black;
 	/*border: 1px solid black;*/
 }
 
@@ -62,10 +62,11 @@ h1
 {
 	font-family:"Roboto";
 	font-style:normal;
+	text-align:center;
 }
-h2
+h2, h3
 {
-	font-family:"Lora";
+	font-family:"Roboto";
 }
 p {font-family:"Lora";}
 .pagetitle {font-size:2.5vw;}
