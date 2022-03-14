@@ -94,3 +94,8 @@ ul {list-style-type:square;}
 	width: 1500px;
 	height: 700px;
 }
+em
+{
+	font-weight:bold;
+	text-decoration:underline;
+}
