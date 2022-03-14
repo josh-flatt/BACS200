@@ -78,14 +78,14 @@ p
 .pagetitle {font-size:2.5vw;}
 .button 
 {
-	padding-top: .5vw;
-	padding-bottom: .5vw;
-	padding-left: .5vw;
-	padding-right: .5vw;
-	font-size: 1vw;
+	padding-top: 1vw;
+	padding-bottom: 1vw;
+	padding-left: 1vw;
+	padding-right: 1vw;
+	font-size: 1.5vw;
 	font-weight: bold;
-	background-color:#fdbd37;
-	color:#002d5e;
+	background-color:tomato;
+	color:black;
 }
 button:disabled {background-color:gray;}
 ul {list-style-type:square;}
@@ -104,4 +104,9 @@ em
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
+}
+.SiteNavigation
+{
+	display:block;
+	text-align:center;
 }
