@@ -67,8 +67,14 @@ h1
 h2, h3
 {
 	font-family:"Roboto";
+	margin-left:70px;
 }
-p {font-family:"Lora";}
+p 
+{
+	font-family:"Lora";
+	margin-left:75px;
+	margin-right:75px;
+}
 .pagetitle {font-size:2.5vw;}
 .button 
 {
