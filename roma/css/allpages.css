@@ -75,14 +75,18 @@ p
 	margin-left:75px;
 	margin-right:75px;
 }
-.pagetitle {font-size:2.5vw;}
+.pagetitle 
+{
+	font-size:3.5vw;
+	text-decoration:underline;
+}
 .button 
 {
 	padding-top: 1vw;
 	padding-bottom: 1vw;
 	padding-left: 1vw;
 	padding-right: 1vw;
-	font-size: 1.5vw;
+	font-size: 1.25vw;
 	font-weight: bold;
 	background-color:#7A7A7A;
 	color:black;
