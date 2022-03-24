@@ -1,0 +1,20 @@
+/* CSS Document */
+.download 
+{
+	padding-top: .5vw;
+	padding-bottom: .5vw;
+	padding-left: .5vw;
+	padding-right: .5vw;
+	font-size: 1vw;
+	font-weight: bold;
+	background-color:red;
+	color:white;
+	
+}
+
+.download:hover
+{
+	background-color:white;
+	color:red;
+	border-color:red;
+}

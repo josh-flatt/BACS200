@@ -75,6 +75,10 @@ p
 	margin-left:75px;
 	margin-right:75px;
 }
+h3 + p
+{
+	border-top:1px solid gray;
+}
 .pagetitle 
 {
 	font-size:3.5vw;
