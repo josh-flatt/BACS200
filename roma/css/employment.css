@@ -7,7 +7,7 @@
 	padding-right: .5vw;
 	font-size: 1vw;
 	font-weight: bold;
-	background-color:red;
+	background-color:#c5331c;
 	color:white;
 	
 }
@@ -15,6 +15,6 @@
 .download:hover
 {
 	background-color:white;
-	color:red;
-	border-color:red;
+	color:#c5331c;
+	border-color:#c5331c;
 }
