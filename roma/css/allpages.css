@@ -126,3 +126,10 @@ em
 {
 	background-color:#c5331c;
 }
+.menu
+{
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
