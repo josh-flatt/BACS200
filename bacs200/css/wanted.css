@@ -76,4 +76,24 @@ footer
 	text-align:left;
 	background:none;
 }
-.button {background-color:#fdbd37;}
+.button 
+{
+	background-color:#fdbd37;
+	background-image:none;	
+}
+@media all and (max-width:800px)
+{
+	h1
+	{
+		font-size:8vw;
+	}
+	#wanted
+	{
+		margin: 10px 15vw;
+	}
+	.button
+	{
+		font-size:5vw;
+		margin-left:5px;
+	}
+}
