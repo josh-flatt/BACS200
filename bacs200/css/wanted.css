@@ -1,18 +1,19 @@
 *
 {
-	background-image: url('../images/aged_paper.png');
+	/*background-image: url('../images/aged_paper.png');*/
+	background-color: tan;
 }
 body
 {
-	background-color:#97590B;
+	background-color: transparent;
 	text-align:center;
 }
-#wanted
+header
 {
 	border: 10px solid black;
 	margin-left:auto;
 	margin-right:auto;
-	width:40%;
+	width:90%;
 	background:none;
 	color:black;
 }
@@ -34,8 +35,7 @@ h2
 	display: block;
   	margin-left: auto;
   	margin-right: auto;
-	width:272px;
-	height:362px;	
+	width:600px;
 }
 .mugshot + h1
 {
@@ -54,7 +54,7 @@ h2
 }
 ul
 {
-	font-size:25pt;
+	font-size:2vw;
 	text-align:center;
 	color:black;
 	background:none;
@@ -78,10 +78,11 @@ footer
 }
 .button 
 {
-	background-color:#fdbd37;
+	background-color:black;
+	color:tan;
 	background-image:none;	
 }
-@media all and (max-width:800px)
+@media all and (max-width:992px)
 {
 	h1
 	{
