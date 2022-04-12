@@ -4,20 +4,47 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="icon" href="../images/favicon.ico" type="image/x-icon">
-		<link rel="stylesheet" href="css/allpages.css">
-		<!-- CSS only -->
+		<!--<link rel="stylesheet" href="css/allpages.css">-->
+		<!-- Bootstrap CSS -->
 		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 		<title>Title Page</title>
 	</head>
 	<body>
-		<header>
-			<h1 class="pagetitle">Headline</h1>
+		<header class="text-center">
+			<div class="container-fluid bg-dark">
+				<div class="row">
+					<div class="col">
+						<h1 class="text-light">Headline</h1>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col">
+						<a class="nav-item" href="#">Home</a>
+					</div>
+					<div class="col">
+						<a class="nav-item" href="#">Link 2</a>
+					</div>
+					<div class="col">
+						<a class="nav-item" href="#">Contact Us</a>
+					</div>
+				</div>
+			</div>
 		</header>
 		<main>
-			<p>Here is some included writing on</p>
+			<div class="container bg-secondary">
+				<p class="text-light">
+					Here is some included writing on<br>
+					the body portion of this template.<br>
+				</p>
+			</div>
 		</main>
 		<footer>
-			<p>&copy;Copyright 2022 - BACS200</p>
+			<div class="container-fluid bg-black">
+				<p class="text-center text-light">&copy;Copyright 2022 - BACS200</p>
+			</div>
 		</footer>
+		
+		<!-- Bootstrap JavaScript Bundle with Popper -->
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 	</body>
 </html>
